@@ -1,0 +1,55 @@
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Presentacion\obj\Debug\Presentacion.frmArticulo.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.frmArticulo.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\bin\Debug\Presentacion.exe.config
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\bin\Debug\Presentacion.exe
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\bin\Debug\Presentacion.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\bin\Debug\Negocio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\bin\Debug\Negocio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.Form1.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.frmArticulo.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.Properties.Resources.resources
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Presentacion\obj\Debug\Presentacion.csproj.GenerateResource.Cache

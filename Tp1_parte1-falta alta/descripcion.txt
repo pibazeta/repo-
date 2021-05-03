@@ -1,0 +1,6 @@
+
+Capas de negocio , presentacion ,dominio
+
+esta parte si conecta a la base de datos
+
+es solo la conexion , nada mas . parte1

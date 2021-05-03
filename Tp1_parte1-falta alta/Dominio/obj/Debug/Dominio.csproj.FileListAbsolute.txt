@@ -1,0 +1,20 @@
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Dominio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Dominio\obj\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\nueva prueba tp\Tp1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Dominio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Dominio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Dominio\obj\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\Tp1\Dominio\obj\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Dominio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Dominio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Dominio\obj\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\haber\Tp1_parte1 trae combo\Dominio\obj\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Dominio\bin\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Dominio\bin\Debug\Dominio.pdb
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Dominio\obj\Debug\Dominio.csprojResolveAssemblyReference.cache
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Dominio\obj\Debug\Dominio.dll
+C:\Users\agust\OneDrive\Escritorio\2021_1c UTN\Prog3\partes tp Articulos\combo anda-alta no\Tp1_parte1 trae combo\Dominio\obj\Debug\Dominio.pdb
